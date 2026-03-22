@@ -21,3 +21,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Addressed feedback from self code review
 - Added inline documentation for core functions
+
+## 2026-03-23
+- Pinned dependency versions for reproducibility
